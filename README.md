@@ -46,13 +46,13 @@ The system scans QR codes attached to parcels, extracts customer details and des
 ---
 
 ## 📩 Telegram Notification System
-![Telegram Output](telegram_notification.jpeg)
+![Telegram Output](telegram_notification.jpg)
 
 ---
 
 ## 📄 Project Report
 Full documentation available here:  
-[Smart_Parcel_Sorting_Report.pdf](Smart_parcel_sorting.pdf)
+[Smart_Parcel_Sorting_Report.pdf](smart_parcel_sorting.pdf)
 
 ---
 
